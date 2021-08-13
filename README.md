@@ -13,4 +13,5 @@
 ####	4. INSTALLING CONDA
 
 http://github.com - automatic!
+[GitHub](http://github.com)
 
