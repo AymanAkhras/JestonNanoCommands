@@ -11,3 +11,6 @@
 ####	3. Installing ROSPKG
 
 ####	4. INSTALLING CONDA
+
+http://github.com - automatic!
+
