@@ -1,5 +1,11 @@
 # JestonNanoCommands
 
+Jetson nano installation guide to the many useful:
+
+*librarys
+*Integrated development environment
+*environment management system
+*Python 3.7 
 
 # Repository includes the following:
 
