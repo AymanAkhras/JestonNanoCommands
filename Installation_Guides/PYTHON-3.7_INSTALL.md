@@ -1,4 +1,7 @@
-#1 Installing new version of python (3.7 needed)
+# Installation guide for Python 3.7 on the Jeston Nano 
+
+
+##### #1 Installing new version of python (3.7 needed)
 ```
     sudo add-apt-repository ppa:deadsnakes/ppa
     sudo apt update
