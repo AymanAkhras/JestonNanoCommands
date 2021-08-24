@@ -1,24 +1,22 @@
 #1 Installing new version of python (3.7 needed)
-
+```
     sudo add-apt-repository ppa:deadsnakes/ppa
     sudo apt update
     sudo apt install python3.7
-
-#2 Switching between python versions
-
-    method 1 (For single user)
+```
+##### Method 1 (For single user)
 ```
 nano ~/.bashrc
-        alias python=‘/usr/bin/python3.7’
-```   
-   method 2 (For all users)
+    alias python=‘/usr/bin/python3.7’
+```
+#####  Method 2 (For all users)
 ```   
    sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
         sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2
         sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
         sudo update-alternatives --config python
 ```
-#3 creating venv for python environment
+##### #3 creating venv for python environment
 ```   
     pip3 install virtualenv virtualenvwrapper
     vim ~/.bashrc (in bashrc file, add following command)
