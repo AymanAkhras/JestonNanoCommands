@@ -18,5 +18,5 @@ Jetson nano installation guide to the many useful:
 
 ####	4. [Installing PYTHON-3.7](https://github.com/AymanAkhras/JestonNanoCommands/blob/main/Installation_Guides/PYTHON-3.7_INSTALL.md)
 
-#### 5. [Installing JESTON GPIO](https://github.com/AymanAkhras/JestonNanoCommands/blob/main/Installation_Guides/Installing%20JETSON%20GPIO)
+#### 5. [Installing JESTON GPIO](https://github.com/AymanAkhras/JestonNanoCommands/blob/main/Installation_Guides/Installing%20JETSON%20GPIO.md)
 
