@@ -1,6 +1,6 @@
 #### To get JESTON GPIO on the Jeston Nano the following setups must be taken:
 
-Github repository used: https://github.com/Archiconda/build-tools
+Github repository used: https://github.com/NVIDIA/jetson-gpio
 
 ##### Step 1: Installing Jeston.GPIO for python3 and python using pip
 If the return message is “Requirement already satisfied…” then it was already installed.
