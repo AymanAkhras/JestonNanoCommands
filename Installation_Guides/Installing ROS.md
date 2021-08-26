@@ -1,6 +1,6 @@
 #### To get ROS on the Jeston Nano the following setups must be taken: 
 
-Github repository used: https://github.com/NVIDIA/jetson-gpio
+Github repository used:  https://github.com/JetsonHacksNano/installROS
 
 ##### Step 1: Clone the following Repo
 ```
