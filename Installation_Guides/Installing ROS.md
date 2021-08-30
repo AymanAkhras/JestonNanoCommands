@@ -26,7 +26,7 @@ command gedit ~/.bashrc
 ```
 source ~/.bashrc
 ```
-
+open up a new terminal 
 ```
 roscore
 rostopic list
