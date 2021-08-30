@@ -7,7 +7,6 @@ Github repository used:  https://github.com/JetsonHacksNano/installROS
 git clone https://github.com/JetsonHacksNano/installROS
 cd installROS/
 ./installROS.sh -p ros-melodic-desktop
-
 ```
 
 ##### Step 2: Catkin Setup
