@@ -2,7 +2,7 @@
 
 Github repository used: https://github.com/Archiconda/build-tools
 
-##### Step 1: Downloads and Setsups Conda
+##### Step 1: Download and Setup Conda
 ```
 wget --quiet -O archiconda.sh https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh && \
   sh archiconda.sh -b -p $HOME/archiconda3 && \
