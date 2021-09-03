@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO			# using Rpi.GPIO module
+import Jetson.GPIO as GPIO			# using Rpi.GPIO module
 from time import sleep
 # import function sleep for delay
 GPIO.setmode(GPIO.BOARD)			# GPIO numbering
